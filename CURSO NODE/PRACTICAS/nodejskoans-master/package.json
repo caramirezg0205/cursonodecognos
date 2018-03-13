@@ -1,0 +1,19 @@
+{
+  "name": "nodejskoans-master",
+  "version": "1.0.0",
+  "description": "Node.js Koans (GPL Licensed)\r ======",
+  "main": "index.js",
+  "dependencies": {
+    "accepts": "^1.3.5",
+    "express": "^3.0.0",
+    "koanizer": "^0.1.0",
+    "node-uuid": "^1.4.8",
+    "socket.io": "^0.9.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

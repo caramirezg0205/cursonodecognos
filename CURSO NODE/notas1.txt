@@ -1,0 +1,11 @@
+/*Registrar node a traves de proxy */ 
+descarga CNTLM
+https://stackoverflow.com/questions/18569054/npm-behind-ntlm-proxy/18570201#18570201
+/* instalar librerias */
+/* github */
+https://github.com/rasmurillo/curso_node_ii
+
+https://prezi.com/upvvsncea5rj/nodejs-1/
+
+
+    http://www.nodenica.com/instalar-nodejs/

@@ -1,0 +1,72 @@
+LEAN
+DEVOPS
+API
+
+mongod --dbpath "CARPETA DATA"
+
+
+http://localhost:2000/locations
+
+200 = success
+
+MOBILE 
+
+Certificados Client
+Certificados Backend
+
+
+jwt para validar servicios web
+
+{
+	fadfasdfadf.
+	fadsfasdfgfgr.
+	343rseresr.
+}
+
+caducidad
+unicidad
+validez
+seed -> dinamica por hora -> unica
+salt -> considerable 
+SHA256
+
+HSM
+
+
+https header user pass basic base64
+
+encriptar informacion
+
+
+LOG 
+-> no data q involucre sensibilidad
+-> errores
+-> modo  error info warm trace
+
+
+tarea: 
+
+dar librerias para seguridad y logs
+
+
+martes 
+	debbuger
+miercoles 
+	socket.io
+	chat
+jueves
+	redes sociales
+viernes 
+	vue CRUD
+	
+lunes
+	examen
+
+
+
+--------------
+debug 
+
+node inspect 
+	
+	

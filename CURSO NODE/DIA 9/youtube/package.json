@@ -1,0 +1,11 @@
+{
+  "name": "youtube",
+  "version": "1.0.0",
+  "description": "With the YouTube Data API, you can add a variety of YouTube features to your application. Use the API to upload videos, manage playlists and subscriptions, update channel settings, and more.",
+  "main": "playlist.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

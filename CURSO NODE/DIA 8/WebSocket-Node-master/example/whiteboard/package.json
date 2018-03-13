@@ -1,0 +1,14 @@
+{
+    "name": "websocket-whiteboard-example",
+    "description": "Whiteboard example for websocket-node.",
+    "author": "Brian McKelvey <brian@worlize.com> (https://www.worlize.com/)",
+    "version": "1.0.0",
+    "dependencies": {
+        "ejs": "^0.4.3",
+        "express": "^2.5.11",
+        "mime": "^2.2.0",
+        "mime-db": "^1.33.0",
+        "mime-lookup": "0.0.2",
+        "mime-types": "^2.1.18"
+    }
+}
